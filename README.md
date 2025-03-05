@@ -144,5 +144,4 @@ All map queries returned no results due to no instances of malicious activity fo
 
 ## **Additional Resources**
 
-- Incident Report: View Full Report
-- Custom KQL Queries: View Here
+- [View the Full Incident Report](docs/reports/Report%20Malicious%20Payload.md)
